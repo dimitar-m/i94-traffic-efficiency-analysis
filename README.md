@@ -30,6 +30,10 @@ The analysis utilizes Python with Pandas, Matplotlib, and Seaborn to:
 
 The findings highlight distinct traffic patterns and potential weather-related impacts on traffic volume. The results are tailored to improving traffic management strategies specific to the westbound segment near the data collection station and should not be generalized to the entire I-94 highway.
 
+## Getting Started
+
+To explore the detailed analysis and results, check out the [notebook](i94_traffic_efficiency_analysis.ipynb) available in this repository.
+
 ## Contributing
 
 Feel free to open issues or submit pull requests if you have suggestions for improvements or additional analyses.
